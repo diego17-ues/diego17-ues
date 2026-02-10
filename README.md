@@ -10,7 +10,7 @@
 
 **Me encanta entrenar, conducir y ver peliculas**
 
-:math:**Math Fan**
+:calendar:**Math Fan**
 
 **Contacto:**
 Github:[@diego17-ues](https://github.com/diego17-ues)
