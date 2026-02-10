@@ -6,11 +6,11 @@
 
 :book:**Hebreos 11:1**
 
-:uncoming_automobile: **Fan de One Piece**
+:car: **Fan de One Piece**
 
-:arm:**Me encanta entrenar, conducir y ver peliculas**
+**Me encanta entrenar, conducir y ver peliculas**
 
-:number:**Math Fan**
+:math:**Math Fan**
 
-:github:**Contacto:**
+**Contacto:**
 Github:[@diego17-ues](https://github.com/diego17-ues)
