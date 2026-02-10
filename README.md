@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, Un gusto conocerte
 
-<!--
-**diego17-ues/diego17-ues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Aprendiendo cada dia, para un futuro mejor"
 
-Here are some ideas to get you started:
+:computer: **Estudiante de Ingenieria en Sistemas Informáticos de la Universidad de El Salvador**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:book:**Hebreos 11:1**
+
+:uncoming_automobile: **Fan de One Piece**
+
+:arm:**Me encanta entrenar, conducir y ver peliculas**
+
+:number:**Math Fan**
+
+:github:**Contacto:**
+Github:[@diego17-ues](https://github.com/diego17-ues)
